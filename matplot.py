@@ -3,7 +3,6 @@
 
 '''
 Title: Top 100 Global Banks – Matplotlib Project
-Author: [Your Name]
 Purpose:
     Create four visualizations using the STATELESS pyplot interface only.
     (Object-oriented approach with explicit figure and axis objects)
